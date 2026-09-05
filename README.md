@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/suhailansari6937/DSA/tree/master/1234-replace-the-substring-for-balanced-string) |
+## Array
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/suhailansari6937/DSA/tree/master/0875-koko-eating-bananas) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/suhailansari6937/DSA/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
