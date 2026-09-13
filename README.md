@@ -14,17 +14,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/suhailansari6937/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/suhailansari6937/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0778-swim-in-rising-water](https://github.com/suhailansari6937/DSA/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/suhailansari6937/DSA/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/suhailansari6937/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/suhailansari6937/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0778-swim-in-rising-water](https://github.com/suhailansari6937/DSA/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/suhailansari6937/DSA/tree/master/0875-koko-eating-bananas) |
 ## Two Pointers
 |  |
 | ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/suhailansari6937/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0647-palindromic-substrings](https://github.com/suhailansari6937/DSA/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
@@ -58,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/suhailansari6937/DSA/tree/master/0778-swim-in-rising-water) |
+## Hash Table
+|  |
+| ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/suhailansari6937/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/suhailansari6937/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 <!---LeetCode Topics End-->
