@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0647-palindromic-substrings](https://github.com/suhailansari6937/DSA/tree/master/0647-palindromic-substrings) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/suhailansari6937/DSA/tree/master/1234-replace-the-substring-for-balanced-string) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/suhailansari6937/DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Sliding Window
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/suhailansari6937/DSA/tree/master/0778-swim-in-rising-water) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/suhailansari6937/DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -69,4 +71,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/suhailansari6937/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+## Tree
+|  |
+| ------- |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/suhailansari6937/DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Binary Tree
+|  |
+| ------- |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/suhailansari6937/DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Binary Lifting
+|  |
+| ------- |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/suhailansari6937/DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/suhailansari6937/DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 <!---LeetCode Topics End-->
