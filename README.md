@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0647-palindromic-substrings](https://github.com/suhailansari6937/DSA/tree/master/0647-palindromic-substrings) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/suhailansari6937/DSA/tree/master/1234-replace-the-substring-for-balanced-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/suhailansari6937/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/suhailansari6937/DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Sliding Window
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/suhailansari6937/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0778-swim-in-rising-water](https://github.com/suhailansari6937/DSA/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/suhailansari6937/DSA/tree/master/0875-koko-eating-bananas) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/suhailansari6937/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/suhailansari6937/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/suhailansari6937/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Sorting
 |  |
 | ------- |
