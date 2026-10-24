@@ -100,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/suhailansari6937/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Database
+|  |
+| ------- |
+| [1683-invalid-tweets](https://github.com/suhailansari6937/DSA/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
