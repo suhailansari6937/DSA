@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1234-replace-the-substring-for-balanced-string](https://github.com/suhailansari6937/DSA/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/suhailansari6937/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/suhailansari6937/DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2409-count-days-spent-together](https://github.com/suhailansari6937/DSA/tree/master/2409-count-days-spent-together) |
 ## Sliding Window
 |  |
 | ------- |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/suhailansari6937/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/suhailansari6937/DSA/tree/master/1683-invalid-tweets) |
+## Math
+|  |
+| ------- |
+| [2409-count-days-spent-together](https://github.com/suhailansari6937/DSA/tree/master/2409-count-days-spent-together) |
 <!---LeetCode Topics End-->
