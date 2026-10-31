@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1164-product-price-at-a-given-date](https://github.com/suhailansari6937/DSA/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/suhailansari6937/DSA/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/suhailansari6937/DSA/tree/master/1193-monthly-transactions-i) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/suhailansari6937/DSA/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/suhailansari6937/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/suhailansari6937/DSA/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/suhailansari6937/DSA/tree/master/1661-average-time-of-process-per-machine) |
