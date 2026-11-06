@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0550-game-play-analysis-iv](https://github.com/suhailansari6937/DSA/tree/master/0550-game-play-analysis-iv) |
 | [0577-employee-bonus](https://github.com/suhailansari6937/DSA/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/suhailansari6937/DSA/tree/master/0620-not-boring-movies) |
+| [0626-exchange-seats](https://github.com/suhailansari6937/DSA/tree/master/0626-exchange-seats) |
 | [1070-product-sales-analysis-iii](https://github.com/suhailansari6937/DSA/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/suhailansari6937/DSA/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/suhailansari6937/DSA/tree/master/1141-user-activity-for-the-past-30-days-i) |
