@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/suhailansari6937/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0778-swim-in-rising-water](https://github.com/suhailansari6937/DSA/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/suhailansari6937/DSA/tree/master/0875-koko-eating-bananas) |
+| [1352-product-of-the-last-k-numbers](https://github.com/suhailansari6937/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/suhailansari6937/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/suhailansari6937/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Binary Search
@@ -127,5 +128,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/suhailansari6937/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [2409-count-days-spent-together](https://github.com/suhailansari6937/DSA/tree/master/2409-count-days-spent-together) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/suhailansari6937/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/suhailansari6937/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/suhailansari6937/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
